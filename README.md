@@ -1,2 +1,4 @@
-# PreCurseHenry
-Repositorio de prueba del modulo2 del pre-curso de Henry
+Carolina Ruiz
+
+Proyecto de prueba para el modulo2
+
